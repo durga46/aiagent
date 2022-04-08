@@ -36,7 +36,7 @@ The agent should detect the location and suck if the location it is dirty,else i
 The performance is measured with the number of movements and the cleaning action of the agent.
 
 ## PROGRAM
-python
+```python
 
 import random
 import time
@@ -240,7 +240,7 @@ if __name__ == "__main__":
         print('\nAgent Performance',agent.performance)
         time.sleep(5)
         
-
+```
 
 
 
